@@ -1,4 +1,4 @@
-- 👋 Hi, I’m noah shayne
+- 👋 Hi, I’m Noah
 - 👀 I’m interested in digital forensics, and cybersecurity as a whole
 - 🌱 I’m currently learning C
 - 💞️ I’m looking forward to collaborating on UniPath.io
