@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking forward to collaborating on UniPath.io
 - 📫 Email: noah.shayne@gmail.com
-- 🖥️ Website: cs.uml.edu/~nshayne/
+- 🖥️ Website: https://cs.uml.edu/~nshayne/
 
 
